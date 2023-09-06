@@ -1,0 +1,93 @@
+<html>
+
+    <head>
+    
+      <title> AAHUTOSH JI. </title>
+    
+      <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-5QK5FDL');</script>
+      <!-- End Google Tag Manager -->
+        
+       <font size="50rem" color="purple" face="cursive"> <marquee behavior="alternative" style="border:solid blue">
+           AASHUTOSHJI.GITHUB.IO
+         </marquee> </font>
+    
+        <link rel="stylesheet" href="style.css">
+        <script> 
+            
+           let age = prompt(" What is your age")
+
+if (age > 18) {
+  alert("sir; thank you for visit my website")
+}
+
+else {
+  alert("ok")
+}
+            
+        </script>
+
+        <meta name="google-site-verification" content="04YHVi3RIzXH6RaaT0W0K6xc4ufwXyLilG_TJpLixxU" />
+        
+        <div class="header">
+          <div class="container">
+    
+           <div class="div 3"> <a href="https://www.instagram.com/aashutosh.mani/"> follow me </a> </div>
+           <div class="div 2"> <a href="https://wa.me/918532042832">  contact us </a> </div>
+           <div class="div 1"> <a href="https://aashutoshji.github.io/"> home  &#8962; </a> </div>
+    
+          </div>
+        </div>
+    
+    </head>
+        
+    <body>
+    
+    
+        <div class="maindiv">
+             
+        
+     
+    
+             <div class="containt">
+    
+             <div id="hello"> 
+              
+              <p> HELLO  </p>
+               
+             </div>
+             
+             <div id="data">
+
+            <p> <img src="1.jpeg"> </p> </br>
+
+           <ul>
+
+                <li> <font color="white"> 𝔸𝕒𝕤𝕙𝕦𝕥𝕠𝕤𝕙 𝕄𝕒𝕟𝕚 𝕋𝕣𝕚𝕡𝕒𝕥𝕙𝕚  </font> </li>
+                <li> <font color="aqua"> web developer  </li> <br>
+                  <li> ∂єνєℓσρєя_📈  </li> <br>
+                  <li> нтмℓ,¢ѕѕ⌨🖱🖥   <meter id="нтмℓ,¢ѕѕ⌨🖱🖥" value="8" min="0" max="10"> </meter> </font>  </li> <br>
+                  <li> ₮Ɽł₱₳₮Ⱨł Jł  </li>
+
+                 
+
+
+                <li> <font color="aqua"> <var> claas={11th}
+                  <meter id="claas" value="7" min="0" max="11"> </meter>  </var> </font> </li>
+
+            </ul>
+           
+          </div>
+
+            </div>
+             <div class="footer"> <strong> AASHUTOSH MANI COPYRIGHT &#169 2022 </strong> <br> thankyou for visit </br> </div>
+        </div> 
+        
+    </body>
+    
+    </html>
+    
